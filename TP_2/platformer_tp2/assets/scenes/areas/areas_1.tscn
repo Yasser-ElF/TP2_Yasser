@@ -1,10 +1,10 @@
 [gd_scene load_steps=8 format=4 uid="uid://bw7ub8k7lmyd7"]
 
-[ext_resource type="Texture2D" uid="uid://xykblysn5a2l" path="res://assets/sprites/tiles_1.png" id="1_da7ka"]
-[ext_resource type="PackedScene" uid="uid://bbsurxxwbgpcq" path="res://assets/scenes/character_body_2d.tscn" id="2_s7uhu"]
-[ext_resource type="AudioStream" uid="uid://bqf61qtpvauaa" path="res://assets/audio/sfx_player_jump.mp3" id="3_s4pfr"]
-[ext_resource type="AudioStream" uid="uid://dwmbgpoekuo51" path="res://assets/audio/sfx_player_fall.mp3" id="4_7j57m"]
-[ext_resource type="AudioStream" uid="uid://dr41bwt3nf1h3" path="res://assets/audio/sfx_player_footsteps.mp3" id="5_oamfg"]
+[ext_resource type="Texture2D" uid="uid://xykblysn5a2l" path="res://platformer_tp1/assets/sprites/tiles_1.png" id="1_da7ka"]
+[ext_resource type="PackedScene" uid="uid://bbsurxxwbgpcq" path="res://platformer_tp1/assets/scenes/character_body_2d.tscn" id="2_s7uhu"]
+[ext_resource type="AudioStream" uid="uid://bqf61qtpvauaa" path="res://platformer_tp1/assets/audio/sfx_player_jump.mp3" id="3_s4pfr"]
+[ext_resource type="AudioStream" uid="uid://dwmbgpoekuo51" path="res://platformer_tp1/assets/audio/sfx_player_fall.mp3" id="4_7j57m"]
+[ext_resource type="AudioStream" uid="uid://dr41bwt3nf1h3" path="res://platformer_tp1/assets/audio/sfx_player_footsteps.mp3" id="5_oamfg"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_0yndd"]
 texture = ExtResource("1_da7ka")

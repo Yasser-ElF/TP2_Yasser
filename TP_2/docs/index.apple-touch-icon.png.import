@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dbgm8b576dxmc"
-path="res://.godot/imported/enemy_1.png-e417e63af82524af77e7c44af10c17de.ctex"
+uid="uid://be02meb03vejp"
+path="res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://platformer_tp1/assets/sprites/enemy_1.png"
-dest_files=["res://.godot/imported/enemy_1.png-e417e63af82524af77e7c44af10c17de.ctex"]
+source_file="res://docs/index.apple-touch-icon.png"
+dest_files=["res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex"]
 
 [params]
 
