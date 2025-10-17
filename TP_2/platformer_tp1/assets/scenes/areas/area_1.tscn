@@ -23,7 +23,7 @@ position = Vector2(76, -1)
 position = Vector2(142, -33)
 
 [node name="VBoxContainer" parent="PauseMenu" index="0"]
-offset_left = 96.0
+offset_left = -22.0
 offset_top = -86.0
-offset_right = 233.0
+offset_right = 567.0
 offset_bottom = 19.0
