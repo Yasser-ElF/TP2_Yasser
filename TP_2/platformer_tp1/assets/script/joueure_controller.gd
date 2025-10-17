@@ -62,3 +62,7 @@ func _physics_process(delta):
 			marche_sfx.stop()
 	
 	move_and_slide()  # deplace le personnage en fonction de la vitesse et de la direction definies
+
+
+func _on_resume_pressed() -> void:
+	pass # Replace with function body.

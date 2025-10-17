@@ -39,3 +39,9 @@ position = Vector2(199, -101)
 
 [node name="EnergyCell10" parent="EnergyCells" index="9"]
 position = Vector2(344, -160)
+
+[node name="VBoxContainer" parent="Control" index="0"]
+offset_left = 147.0
+offset_top = -144.0
+offset_right = 284.0
+offset_bottom = -39.0
