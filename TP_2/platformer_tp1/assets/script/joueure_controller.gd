@@ -53,5 +53,12 @@ func _physics_process(delta):
 		velocity.x = move_toward(velocity.x, 0, speed * speed_multiplier)
 		marche_sfx.play()
 
+	#  Run sound logic
+	if is_on_floor() and direction != 0:
+		if not marche_sfx.playing:
+			marche_sfx.play()
+	else:
+		if marche_sfx.playing:
+			marche_sfx.stop()
 	
 	move_and_slide()  # deplace le personnage en fonction de la vitesse et de la direction definies
